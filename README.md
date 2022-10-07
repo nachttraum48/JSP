@@ -16,3 +16,7 @@
 	2. response 객체 실습
 	3. out 객체 실습
 	4. pageContext 객체 실습
+	5. application 객체 실습
+	6. session 객체 실습
+	7. exception 객체 실습
+	8. 내장객체 영역 실습
