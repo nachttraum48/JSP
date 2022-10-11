@@ -22,6 +22,6 @@
 	8. 내장객체 영역 실습
 	
 ## Ch04.JSP 액션태그
-	1. forward 액션태그 실습
-	2. include 액션태그 실습
-	3. useBean 액션태그 실습
+	1. forward 태그 실습
+	2. include 태그 실습
+	3. useBean 태그 실습
