@@ -20,3 +20,8 @@
 	6. session 객체 실습
 	7. exception 객체 실습
 	8. 내장객체 영역 실습
+	
+## Ch04.JSP 액션태그
+	1. forward 액션태그 실습
+	2. include 액션태그 실습
+	3. useBean 액션태그 실습
