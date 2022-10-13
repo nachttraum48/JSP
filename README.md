@@ -29,3 +29,6 @@
 ## Ch05.쿠키와 세션
 	1. JSP Cookie 실습
 	2. JSP Session 실습
+	
+## Ch06.JSP 데이터베이스
+	1. JSP JDBC 실습
