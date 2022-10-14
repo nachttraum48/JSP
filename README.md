@@ -32,3 +32,4 @@
 	
 ## Ch06.JSP 데이터베이스
 	1. JSP JDBC 실습
+	2. JSP DBCP 실습
